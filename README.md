@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brevon
 - 👀 I’m interested in Full Stack development and cloud computing
-- 🌱 I’m currently learning c# and Sql Oracle Sql devlopment
+- 🌱 I’m currently learning c# and Oracle Sql devlopment
 
 
 <!---
